@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component_data>
+  <File wkspFile="readme.txt" installFile="readme.txt" checksum="EE934C02E4F50922689DAE1B4225E091138E6269"/>
+  <File wkspFile="GeneratedSource\cycfg_capsense.h" installFile="GeneratedSource\cycfg_capsense.h" checksum="3B766A78EE928D96077BC088C17F4566F88A2639"/>
+  <File wkspFile="Source\LED.h" installFile="Source\LED.h" checksum="57B6539999DAD5276140DA9F73EE0CF58541DA2D"/>
+  <File wkspFile="Source\BLEFindMe.h" installFile="Source\BLEFindMe.h" checksum="D37A21CD48D2BD0C3FAD3608820C235DC489C556"/>
+  <File wkspFile="GeneratedSource\cycfg_ble.h" installFile="GeneratedSource\cycfg_ble.h" checksum="D4D3588A898F2F61606640287DCD878B2BF7D698"/>
+  <File wkspFile="GeneratedSource\cycfg_capsense.c" installFile="GeneratedSource\cycfg_capsense.c" checksum="35E7FB181EE5511551C1AFB4477283FDB0BF0475"/>
+  <File wkspFile="Source\BLEFindMe.c" installFile="Source\BLEFindMe.c" checksum="E615057BE1582F53D73B0FE5F938C90D57F78A33"/>
+  <File wkspFile="cy8c6xx7_cm4_dual.ld" installFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\linker\gcc\cy8c6xx7_cm4_dual.ld" checksum="6C8C7F9AC32522A21ECE64BE694800F79B0E8EAF"/>
+  <File wkspFile="design.modus" installFile="design.modus" checksum="EFE8FDF63A17462FE5E9F1EA33E24C99F02D2A82"/>
+  <File wkspFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\startup\gcc\startup_psoc6_01_cm4.S" installFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\startup\gcc\startup_psoc6_01_cm4.S" checksum="F588109B80706A2549C1FE9D3E7A526A6F1B3CC9"/>
+  <File wkspFile="GeneratedSource\cycfg_ble.c" installFile="GeneratedSource\cycfg_ble.c" checksum="810132747D8955353C271CCF1BB7A95737E5A91C"/>
+  <File wkspFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\startup\system_psoc6_cm4.c" installFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\startup\system_psoc6_cm4.c" checksum="B3800034C363591C13FC0B3040350334DA5252A3"/>
+  <File wkspFile="Source\debug.h" installFile="Source\debug.h" checksum="0CB7BCF93560B577D871184C60319B42761C0014"/>
+  <File wkspFile="Source\stdio_user.c" installFile="Source\stdio_user.c" checksum="ED8937E3E53E9AA7C85D0E68E78D8E4B532DAAC2"/>
+  <File wkspFile="Source\main.c" installFile="Source\main.c" checksum="F72357007CEB1CABE3773026E0B9F44925115772"/>
+  <File wkspFile=".\psoc6_01_cm0p_sleep_signed.elf" installFile="psoc6sw-1.1\components\psoc6pdl\devices\psoc6\cm0p\prebuilt\psoc6_01_cm0p_sleep_signed.elf" checksum="0DCF7490902EA561C76D68485932290555DD7E5D"/>
+  <File wkspFile="Source\debug.c" installFile="Source\debug.c" checksum="AD4E4CDC01B862DE7E55706846F10CC7D0F2C79C"/>
+  <File wkspFile="Source\stdio_user.h" installFile="Source\stdio_user.h" checksum="2DA8F0553FBB15AF70BD01E527C4AD3E34362C1F"/>
+  <artifact name="mainapp"/>
+</component_data>

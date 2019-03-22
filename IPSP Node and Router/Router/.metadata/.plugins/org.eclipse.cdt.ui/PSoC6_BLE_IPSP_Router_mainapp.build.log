@@ -1,0 +1,6 @@
+11:24:21 **** Incremental Build of configuration Debug for project PSoC6_BLE_IPSP_Router_mainapp ****
+"C:\\Users\\guro\\ModusToolbox_1.1\\tools\\modus-shell-1.0\\bin\\make" -j4 all 
+make: Nothing to be done for `all'.
+
+11:24:34 Build Finished (took 13s.633ms)
+

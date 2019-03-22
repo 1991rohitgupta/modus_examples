@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;CE212736_PSoC6_BLE_FindMe_mainapp/Source/BLEFindMe.c&apos; to &apos;host_main.c&apos;" description="Rename resource &apos;BLEFindMe.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Source/BLEFindMe.c" name="host_main.c" stamp="1553062042339" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;CE212736_PSoC6_BLE_FindMe_mainapp/Source/BLEFindMe.h&apos; to &apos;common.h&apos;" description="Rename resource &apos;BLEFindMe.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Source/BLEFindMe.h" name="common.h" stamp="1553062261919" updateReferences="true"/>
+</session>

@@ -1,0 +1,6 @@
+11:57:13 **** Incremental Build of configuration Debug for project psoc6pdl_Cortex-M4 ****
+"C:\\Users\\guro\\ModusToolbox_1.1\\tools\\modus-shell-1.0\\bin\\make" -j4 all 
+make: Nothing to be done for `all'.
+
+11:57:31 Build Finished (took 18s.544ms)
+

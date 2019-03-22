@@ -1,0 +1,46 @@
+/*******************************************************************************
+* File Name: BLEFindMe.h
+*
+* Version: 1.00
+*
+* Description:
+*  Contains the function prototypes and constants for the BLE functionality.
+*
+********************************************************************************
+* Copyright 2018-2019, Cypress Semiconductor Corporation.  All rights reserved.
+* You may use this file only in accordance with the license, terms, conditions,
+* disclaimers, and limitations in the end user license agreement accompanying
+* the software package with which this file was provided.
+*******************************************************************************/
+
+#ifndef BLEFINDME_H
+
+    #define BLEFINDME_H
+
+	#include "cy_device_headers.h"
+	#include "cycfg.h"
+	#include "cycfg_ble.h"
+	#include "cy_syspm.h"
+    #include "debug.h"
+    #include "LED.h"
+
+	#define CY_BLE_MAX_ADV_DEVICES       10u
+	#define STATE_INIT                  (0u)
+	#define STATE_CONNECTING            (1u)
+	#define STATE_DISCONNECTED          (2u)
+	#define STATE_CONNECTED             (3u)
+
+	#define TIMER_TIMEOUT               (1u)
+
+	#define YES                         (1u)
+	#define NO                          (0u)
+
+    /***************************************
+    *       Function Prototypes
+    ***************************************/
+    void BleFindMe_Init(void);
+    void BleFindMe_Process(void);
+
+#endif
+
+/* [] END OF FILE */
